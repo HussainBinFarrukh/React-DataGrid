@@ -22,7 +22,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "1.1.4"
