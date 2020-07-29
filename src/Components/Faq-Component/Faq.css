@@ -1,0 +1,10 @@
+.FaqDiv p{
+    text-align: justify;
+    margin: 50px 100px;
+    text-transform: capitalize;
+
+
+}
+.FaqDiv{
+    margin-top: 10%;
+}

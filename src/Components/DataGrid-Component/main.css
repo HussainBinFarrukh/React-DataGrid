@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+
+.Maintitle{
+    padding-top: 7%;
+    
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.ag-theme-balham{
+    margin: 3%;
+    text-align: center;
+}
+.MainDiv{
+    margin: 5%;
+}
