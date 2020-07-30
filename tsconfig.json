@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+  
+      "jsx": "preserve",
+      "jsx": "react"                     /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
+  
+      }
+  }
