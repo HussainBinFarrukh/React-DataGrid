@@ -25,7 +25,7 @@
     "react-dom": "^16.4.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "deprecated": false,
   "description": "Please refer to its documentation:   - [Getting Started](https://github.com/jqwidgets/dataGrid/blob/master/README.md#getting-started)    - [jQWidgets React Documentation](http://www.jqwidgets.com/reactjs-components-documentation/)",
